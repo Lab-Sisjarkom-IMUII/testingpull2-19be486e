@@ -1,0 +1,11 @@
+{
+  "name": "testingpull2",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testingpull2",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_95e1f9aa28e086dbc6fe325ac288d4f9b3fbef6a242b297bfe1d219430ac98a6",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testingpull2-19be486e.git"
+}
